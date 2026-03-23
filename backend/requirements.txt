@@ -1,0 +1,9 @@
+fastapi[all]
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pandas
+openpyxl
+reportlab
+openai
